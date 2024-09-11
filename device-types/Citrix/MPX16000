@@ -1,0 +1,183 @@
+manufacturer: Citrix
+model: MPX 16000
+slug: mpx-16000
+description: ''
+default_platform: null
+part_number: mpx-16000
+u_height: 2.0
+is_full_depth: true
+subdevice_role: ''
+airflow: front-to-rear
+weight: 56.0
+weight_unit: lb
+comments: ''
+console-ports:
+- name: Console
+  type: de-9
+  label: ''
+  description: ''
+power-ports:
+- name: PS 1
+  type: iec-60320-c14
+  maximum_draw: 850
+  allocated_draw: null
+  label: ''
+  description: ''
+- name: PS 2
+  type: iec-60320-c14
+  maximum_draw: 850
+  allocated_draw: null
+  label: ''
+  description: ''
+interfaces:
+- name: Interface 0/1
+  type: 1000base-t
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: ''
+  poe_type: ''
+  rf_role: ''
+- name: Interface 1/1
+  type: 1000base-t
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: ''
+  poe_type: ''
+  rf_role: ''
+- name: Interface 25/1
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: ''
+  poe_type: ''
+  rf_role: ''
+- name: Interface 25/2
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: ''
+  poe_type: ''
+  rf_role: ''
+- name: Interface 25/3
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: ''
+  poe_type: ''
+  rf_role: ''
+- name: Interface 25/4
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: ''
+  poe_type: ''
+  rf_role: ''
+- name: Interface 25/5
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: ''
+  poe_type: ''
+  rf_role: ''
+- name: Interface 25/6
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: ''
+  poe_type: ''
+  rf_role: ''
+- name: Interface 25/7
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: ''
+  poe_type: ''
+  rf_role: ''
+- name: Interface 25/8
+  type: 25gbase-x-sfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: ''
+  poe_type: ''
+  rf_role: ''
+- name: Interface 100/1
+  type: 100gbase-x-qsfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: ''
+  poe_type: ''
+  rf_role: ''
+- name: Interface 100/2
+  type: 100gbase-x-qsfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: ''
+  poe_type: ''
+  rf_role: ''
+- name: Interface 100/3
+  type: 100gbase-x-qsfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: ''
+  poe_type: ''
+  rf_role: ''
+- name: Interface 100/4
+  type: 100gbase-x-qsfp28
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: ''
+  poe_type: ''
+  rf_role: ''
+- name: LOM
+  type: 1000base-t
+  enabled: true
+  mgmt_only: true
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: ''
+  poe_type: ''
+  rf_role: ''
+---
